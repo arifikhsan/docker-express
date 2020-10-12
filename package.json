@@ -1,0 +1,7 @@
+{
+  "author": "Arif Ikhsanudin",
+  "name": "docker-express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
